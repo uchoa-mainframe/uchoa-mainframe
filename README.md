@@ -2,7 +2,7 @@
 
 ### Mainframe Developer | COBOL | DB2 | JCL | CICS
 
-Atuo com desenvolvimento e sustentação de aplicações Mainframe, trabalhando com sistemas críticos de alta disponibilidade e grande volume transacional.
+Analista Desenvoledor Mainframe & COBOL | integração entre moderno e legado
 
 ---
 
