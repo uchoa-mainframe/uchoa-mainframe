@@ -31,18 +31,10 @@ Analista Desenvoledor Mainframe & COBOL | integração entre moderno e legado
 
 ---
 
-## Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uchoa-mainframe\&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uchoa-mainframe\&layout=compact)
-
----
-
 ## Contato
 
-* LinkedIn: https://www.linkedin.com/in/seu-linkedin
-* E-mail: [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
+* LinkedIn: www.linkedin.com/in/daniel-uchoa-cobol
+* E-mail: [uchoadaniel159@gmail.com]
 
 ---
 
