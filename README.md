@@ -1,16 +1,49 @@
-## Hi there 👋
+# Olá, eu sou Daniel Uchoa 👋
 
-<!--
-**uchoa-mainframe/uchoa-mainframe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Mainframe Developer | COBOL | DB2 | JCL | CICS
 
-Here are some ideas to get you started:
+Atuo com desenvolvimento e sustentação de aplicações Mainframe, trabalhando com sistemas críticos de alta disponibilidade e grande volume transacional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tecnologias
+
+* COBOL
+* DB2
+* JCL
+* CICS
+* TSO/ISPF
+* Control-M
+* Git
+* SQL
+
+---
+
+## Sobre mim
+
+💻 Desenvolvedor Mainframe
+
+🏦 Experiência em ambientes bancários e sistemas críticos
+
+📚 Sempre estudando arquitetura, performance e boas práticas em Mainframe
+
+🚀 Tecnologia não precisa ser nova para gerar valor. Precisa funcionar.
+
+---
+
+## Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uchoa-mainframe\&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uchoa-mainframe\&layout=compact)
+
+---
+
+## Contato
+
+* LinkedIn: https://www.linkedin.com/in/seu-linkedin
+* E-mail: [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
+
+---
+
+> Enquanto muita gente fala sobre as tecnologias do futuro, eu trabalho com algumas das que sustentam o presente.
