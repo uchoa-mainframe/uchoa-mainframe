@@ -34,7 +34,7 @@ Analista Desenvoledor Mainframe & COBOL | integração entre moderno e legado
 ## Contato
 
 * LinkedIn: www.linkedin.com/in/daniel-uchoa-cobol
-* E-mail: [uchoadaniel159@gmail.com]
+* E-mail: uchoadaniel159@gmail.com
 
 ---
 
