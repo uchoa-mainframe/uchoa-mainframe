@@ -1,6 +1,6 @@
-# Olá, eu sou Daniel Uchoa 👋
+# Eai, eu sou Daniel Uchoa, bora ver um pouco dos meus projetos ?
 
-### Mainframe Developer | COBOL | DB2 | JCL | CICS
+### Sou Mainframe Developer | COBOL | DB2 | JCL | CICS | JAVA | APIs
 
 Analista Desenvoledor Mainframe & COBOL | integração entre moderno e legado
 
