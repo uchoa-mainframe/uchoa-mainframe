@@ -1,8 +1,8 @@
-# Eai, eu sou Daniel, Seja Bem vindo !!!
+# Eai, Seja Bem vindo !!!
 
-### Sou Mainframe Developer | COBOL | DB2 | JCL | CICS | JAVA | APIs
+### Olá! Eu sou Daniel. Deixa eu te contar um pouco sobre mim. 😄
 
-Analista Desenvoledor Mainframe & COBOL | integração entre moderno e legado
+Analista Desenvoledor Mainframe & COBOL | integração entre moderno e legado é o meu foco !!!
 
 
 
