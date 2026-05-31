@@ -1,4 +1,4 @@
-# Eai, eu sou Daniel Uchoa, bora ver um pouco dos meus projetos ?
+# Eai, eu sou Daniel, Seja Bem vindo !!!
 
 ### Sou Mainframe Developer | COBOL | DB2 | JCL | CICS | JAVA | APIs
 
